@@ -1,0 +1,17 @@
+# Python bytecode and cache directories
+__pycache__/
+*.py[cod]
+
+# Notebook metadata
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# Model checkpoints and generated outputs
+*.ckpt
+*.mindir
+dkt/checkpoints_full/
+dkt_v0/model_output/
+dkt/assistments_2009_2010.csv
