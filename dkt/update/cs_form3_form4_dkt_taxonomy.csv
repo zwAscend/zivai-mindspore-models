@@ -1,0 +1,78 @@
+skill_code,skill_name,form,topic_code,topic_name,strand,objective_type,content_basis,concept_tags,dkt_trackable,active
+CS.F3.DATA.STORAGE_UNITS_EXPLAIN,Explain units of storage,3,8.25,Data Representation,DATA,knowledge,"Units of storage: bit,nibble,byte,kilobyte,megabyte,terabyte","storage_units,bit,byte,capacity",1,1
+CS.F3.DATA.CONVERT_DENARY_TO_OCTAL,Convert denary numbers to octal,3,8.25,Data Representation,DATA,procedural,"Number bases: octal","number_bases,octal,conversion",1,1
+CS.F3.DATA.CONVERT_DENARY_TO_HEX,Convert denary numbers to hexadecimal,3,8.25,Data Representation,DATA,procedural,"Number bases: hexadecimal","number_bases,hexadecimal,conversion",1,1
+CS.F3.DATA.CONVERT_OCTAL_TO_DENARY,Convert octal numbers to denary,3,8.25,Data Representation,DATA,procedural,"Number bases: octal","number_bases,octal,conversion",1,1
+CS.F3.DATA.CONVERT_HEX_TO_DENARY,Convert hexadecimal numbers to denary,3,8.25,Data Representation,DATA,procedural,"Number bases: hexadecimal","number_bases,hexadecimal,conversion",1,1
+CS.F3.HW.IDENTIFY_HW_DEVICE_APPLICATIONS,Identify applications of hardware devices,3,8.23,Hardware and Software,HW,knowledge,"Hardware devices and applications (POS,ATM,data capture)","hardware_devices,applications,pos,atm",1,1
+CS.F3.HW.COMPARE_OPERATING_SYSTEMS,Compare different operating systems,3,8.23,Hardware and Software,HW,analysis,"PC and mobile operating systems","operating_systems,comparison,pc,mobile",1,1
+CS.F3.HW.EXPLAIN_OS_FUNCTIONS,Explain functions of an operating system,3,8.23,Hardware and Software,HW,knowledge,"Operating system functions","operating_systems,system_functions",1,1
+CS.F3.APP.DESCRIBE_APPLICATION_AREAS,Describe areas of computer applications,3,8.24,Application of Computer Science,APP,knowledge,"Application areas: agriculture,manufacturing,intelligent systems,wildlife,mining","application_domains,industry_use_cases",1,1
+CS.F3.SEC.APPLY_DATA_PRIVACY_MEASURES,Apply data privacy measures,3,8.27,Security and Ethics,SEC,procedural,"Privacy and data integrity","privacy,data_protection",1,1
+CS.F3.SEC.VERIFY_DATA,Verify data during capture,3,8.27,Security and Ethics,SEC,procedural,"Data integrity: verification","data_integrity,verification",1,1
+CS.F3.SEC.VALIDATE_DATA,Validate data during capture,3,8.27,Security and Ethics,SEC,procedural,"Data integrity: validation","data_integrity,validation,format_check,checksum",1,1
+CS.F3.SEC.SETUP_FIREWALL,Set up a firewall,3,8.27,Security and Ethics,SEC,procedural,"System security","firewall,system_security",1,1
+CS.F3.SEC.APPLY_NETWORK_SECURITY,Apply network security measures,3,8.27,Security and Ethics,SEC,procedural,"System security","network_security,proxy,certificate,digital_signature",1,1
+CS.F3.SEC.IDENTIFY_ONLINE_CRIMES,Identify online crimes,3,8.27,Security and Ethics,SEC,knowledge,"Cybercrime: spoofing,sniffing,fraud,hacking","cybercrime,spoofing,sniffing,fraud,hacking",1,1
+CS.F3.NET.IDENTIFY_MOBILE_TECH_TYPES,Identify types of mobile technologies,3,8.26,Communication Networks and Internet Technologies,NET,knowledge,"Mobile technologies","mobile_tech,phones,tablets,pda,satellite",1,1
+CS.F3.NET.DESCRIBE_MOBILE_TECH_ROLE,Describe role of mobile technologies in communication,3,8.26,Communication Networks and Internet Technologies,NET,knowledge,"Mobile technologies in communication","mobile_communication,use_cases",1,1
+CS.F3.NET.EXPLAIN_WIRELESS_TECH_APPLICATIONS,Explain applications of wireless technologies,3,8.26,Communication Networks and Internet Technologies,NET,knowledge,"Wireless technologies: WiFi,WiMax,Bluetooth,Infrared,Microwave,Radio","wireless,wifi,wimax,bluetooth,infrared,microwave,radio",1,1
+CS.F3.NET.EXPLAIN_CLOUD_SERVICES,Explain cloud computing services concept,3,8.26,Communication Networks and Internet Technologies,NET,knowledge,"Cloud services","cloud_services,upload_download",1,1
+CS.F3.SAD.DESCRIBE_ANALYSIS_STAGE,Describe activities in the analysis stage,3,8.28,Systems Analysis and Design,SAD,knowledge,"Systems analysis: alternatives,DFD,activity diagram","systems_analysis,dfd,activity_diagram",1,1
+CS.F3.SAD.APPLY_SYSTEM_ANALYSIS,Apply system analysis to projects,3,8.28,Systems Analysis and Design,SAD,procedural,"Systems analysis application","requirements_analysis,project_analysis",1,1
+CS.F3.SAD.DESCRIBE_DESIGN_STAGE,Describe activities in the design stage,3,8.28,Systems Analysis and Design,SAD,knowledge,"Systems design activities","systems_design,input_output_design,ui_design",1,1
+CS.F3.SAD.DESIGN_INPUT_OUTPUT_UI,Design input output and user interface,3,8.28,Systems Analysis and Design,SAD,procedural,"Input/output and user interface design","input_design,output_design,ui_design",1,1
+CS.F3.SAD.DESIGN_FILE_STRUCTURES_TABLES,Design file structures and tables,3,8.28,Systems Analysis and Design,SAD,procedural,"Database/file design","file_design,table_design,data_modeling",1,1
+CS.F3.SAD.CONSTRUCT_SYSTEM_FLOWCHARTS_PSEUDOCODE,Construct system flowcharts and pseudocode,3,8.28,Systems Analysis and Design,SAD,procedural,"System flow charts and algorithm design","system_flowchart,pseudocode",1,1
+CS.F3.SAD.EXPLAIN_DEV_TEST_STAGE,Explain development and testing stage activities,3,8.28,Systems Analysis and Design,SAD,knowledge,"Development and testing (coding/testing)","development_lifecycle,testing",1,1
+CS.F3.ALG.DESIGN_FLOWCHARTS,Design flowcharts for algorithms,3,8.29,Algorithm Design and Problem Solving,ALG,procedural,"Algorithm tools: flowchart","algorithm_tools,flowchart",1,1
+CS.F3.ALG.CONSTRUCT_PSEUDOCODE,Construct pseudocode,3,8.29,Algorithm Design and Problem Solving,ALG,procedural,"Algorithm tools: pseudocode","algorithm_tools,pseudocode",1,1
+CS.F3.ALG.APPLY_TOP_DOWN,Apply top down decomposition,3,8.29,Algorithm Design and Problem Solving,ALG,procedural,"Top down and bottom up design","decomposition,top_down",1,1
+CS.F3.ALG.USE_TRACE_TABLES,Use trace tables to dry run algorithms,3,8.29,Algorithm Design and Problem Solving,ALG,procedural,"Interpreting and testing algorithms","trace_table,dry_run",1,1
+CS.F3.ALG.DEBUG_ALGORITHMS,Correct errors in algorithms,3,8.29,Algorithm Design and Problem Solving,ALG,procedural,"Interpreting and testing algorithms","debugging,algorithm_errors",1,1
+CS.F3.PROG.CREATE_USER_INTERFACES,Create user interfaces,3,8.30,Programming,PROG,procedural,"Interface design","ui_design,menus,submenus",1,1
+CS.F3.PROG.DECLARE_FUNCTIONS,Declare and use functions in programs,3,8.30,Programming,PROG,procedural,"Visual programming functions","functions,procedures",1,1
+CS.F3.PROG.USE_OBJECTS_IN_UI,Use objects in interface design,3,8.30,Programming,PROG,procedural,"Visual programming objects","objects,event_driven",1,1
+CS.F3.PROG.TEST_DEBUG_PROGRAMS,Test and debug programs,3,8.30,Programming,PROG,procedural,"Testing and debugging","testing,debugging",1,1
+CS.F3.PROG.IDENTIFY_ERROR_TYPES,Identify types of programming errors,3,8.30,Programming,PROG,knowledge,"Errors","syntax_error,logic_error,runtime_error",1,1
+CS.F3.PROG.APPLY_ERROR_HANDLING,Apply error handling techniques,3,8.30,Programming,PROG,procedural,"Error handling","exceptions,error_handling",1,1
+CS.F3.DB.CREATE_RELATIONAL_DATABASES,Create relational databases,3,8.31,Databases,DB,procedural,"Database objects and views","database_design,relational_model",1,1
+CS.F3.DB.DESIGN_FORMS_REPORTS,Design forms and reports,3,8.31,Databases,DB,procedural,"Forms and reports","forms,reports",1,1
+CS.F3.DB.CREATE_QUERIES,Create database queries,3,8.31,Databases,DB,procedural,"Queries","querying,select_filter",1,1
+CS.F3.DB.IMPORT_EXPORT_DATA,Import and export data,3,8.31,Databases,DB,procedural,"External data sources","data_import,data_export",1,1
+CS.F3.DB.APPLY_DATABASE_SECURITY,Apply database security measures,3,8.31,Databases,DB,procedural,"Database security","db_security,access_control",1,1
+CS.F3.WEB.DESIGN_WEBSITE_WITH_CMS,Design websites using CMS templates,3,8.32,Web Design,WEB,procedural,"CMS templates","cms,wordpress,joomla,drupal",1,1
+CS.F3.WEB.CREATE_UPLOAD_CONTENT,Create and upload website content,3,8.32,Web Design,WEB,procedural,"Web feeds,ads,content","web_content,publishing",1,1
+CS.F3.WEB.USE_GRAPHICS_IN_WEB,Use graphics tools in web development,3,8.32,Web Design,WEB,procedural,"Graphic design and media","graphics,animation,video",1,1
+CS.F3.WEB.APPLY_WEB_SECURITY,Apply security measures in web designing,3,8.32,Web Design,WEB,procedural,"Web security","cookies,plugins,developer_tools",1,1
+CS.F3.WEB.TEST_DEBUG_WEBSITE,Test and debug websites,3,8.32,Web Design,WEB,procedural,"Testing and debugging","web_testing,debugging",1,1
+CS.F3.TECH.IDENTIFY_TECH_LAWS,Identify laws governing technopreneurship,3,8.33,Technopreneurship,TECH,knowledge,"Laws and policies on technopreneurship","policy,legal_compliance",1,1
+CS.F3.TECH.DESCRIBE_IP_RIGHTS,Describe intellectual property rights,3,8.33,Technopreneurship,TECH,knowledge,"IP rights: patents,copyright","ip_rights,patent,copyright",1,1
+CS.F4.DATA.REPRESENT_LOGIC_GATES,Represent logic gates using symbols,4,8.36,Data Representation,DATA,procedural,"Logic gates","logic_gates,symbols",1,1
+CS.F4.DATA.CONSTRUCT_TRUTH_TABLES,Construct truth tables,4,8.36,Data Representation,DATA,procedural,"Truth tables","truth_table,boolean_logic",1,1
+CS.F4.DATA.MODEL_LOGIC_CIRCUITS,Model electronic circuits using logic gates,4,8.36,Data Representation,DATA,procedural,"Logic circuits","circuit_design,boolean_logic",1,1
+CS.F4.APP.DESIGN_DOMAIN_MODELS,Design models for agriculture ambient and GIS systems,4,8.35,Application of Computer Science,APP,procedural,"Agriculture,ambient systems,GIS","domain_modeling,agriculture,ambient,gis",1,1
+CS.F4.HW.REPLACE_MALFUNCTION_COMPONENTS,Replace malfunctioning components,4,8.34,Hardware and Software,HW,procedural,"Hardware and software maintenance","maintenance,component_replacement",1,1
+CS.F4.HW.TROUBLESHOOT_COMMON_ERRORS,Troubleshoot common software and hardware problems,4,8.34,Hardware and Software,HW,procedural,"Common errors: software,keyboard,mouse,hard drive,memory","troubleshooting,diagnostics",1,1
+CS.F4.NET.EXPLAIN_NETWORK_PROTOCOLS,Explain network protocols,4,8.37,Communication Networks and Internet Technologies,NET,knowledge,"TCP/IP and OSI","network_protocols,tcp_ip,osi",1,1
+CS.F4.NET.EXPLAIN_NETWORK_DEVICE_FUNCTIONS,Explain functions of networking devices,4,8.37,Communication Networks and Internet Technologies,NET,knowledge,"Hub,router,switch,bridge,modem","network_devices,router,switch,modem",1,1
+CS.F4.NET.DESIGN_NETWORK_MODEL,Design a network model,4,8.37,Communication Networks and Internet Technologies,NET,procedural,"Network model design","network_design,topology",1,1
+CS.F4.NET.CONFIGURE_NETWORK,Configure a network,4,8.37,Communication Networks and Internet Technologies,NET,procedural,"Network configuration","network_configuration,addressing,device_setup",1,1
+CS.F4.SEC.BACKUP_FILES,Back up files,4,8.38,Security and Ethics,SEC,procedural,"Data backup","backup,restore_points",1,1
+CS.F4.SEC.FORMULATE_RECOVERY_PLAN,Formulate a disaster recovery plan,4,8.38,Security and Ethics,SEC,procedural,"Disaster recovery","disaster_recovery,continuity",1,1
+CS.F4.SEC.USE_DATA_RECOVERY_TOOLS,Use data recovery tools,4,8.38,Security and Ethics,SEC,procedural,"Data recovery tools","recovery_tools,forensics_basics",1,1
+CS.F4.SAD.DESCRIBE_DOCUMENTATION_TYPES,Describe types of documentation and their contents,4,8.39,Systems Analysis and Design,SAD,knowledge,"Documentation","technical_docs,user_docs",1,1
+CS.F4.SAD.OUTLINE_USER_TRAINING_IMPORTANCE,Outline importance of user training in projects,4,8.39,Systems Analysis and Design,SAD,knowledge,"User training","change_management,user_training",1,1
+CS.F4.SAD.DESCRIBE_IMPL_EVAL_MAINT,Describe implementation evaluation and maintenance activities,4,8.39,Systems Analysis and Design,SAD,knowledge,"Implementation,Evaluation,Maintenance","deployment,evaluation,maintenance",1,1
+CS.F4.ALG.DESIGN_PROJECT_ALGORITHMS,Design algorithms for project solutions,4,8.40,Problem Solving,ALG,procedural,"Algorithm design","algorithm_design,project_problem_solving",1,1
+CS.F4.PROG.DEVELOP_PROJECT_CODE,Develop project code using programming concepts,4,8.41,Programming,PROG,procedural,"Coding programs","coding,modular_programming",1,1
+CS.F4.PROG.TEST_DEBUG_PROJECT_MODULES,Test and debug project modules,4,8.41,Programming,PROG,procedural,"Testing and debugging","unit_test,debugging",1,1
+CS.F4.DB.CREATE_ADVANCED_QUERIES,Create queries based on multiple tables,4,8.42,Database,DB,procedural,"Advanced queries","join_queries,multi_table",1,1
+CS.F4.DB.CONNECT_DB_TO_MODULES,Link database to project modules,4,8.42,Database,DB,procedural,"Database connection","db_connectivity,integration",1,1
+CS.F4.DB.APPLY_DB_SECURITY,Apply security measures to databases,4,8.42,Database,DB,procedural,"Database security","db_security,privileges",1,1
+CS.F4.WEB.DEVELOP_WEBSITE_USING_TOOLS,Develop websites using web development tools,4,8.43,Web Design,WEB,procedural,"Web development","web_development,tooling",1,1
+CS.F4.WEB.APPLY_WEB_SECURITY_IN_DEV,Apply security measures in web development,4,8.43,Web Design,WEB,procedural,"Web security","web_security,hardening",1,1
+CS.F4.WEB.TEST_DEBUG_WEB_APP,Test and debug a web application,4,8.43,Web Design,WEB,procedural,"Testing and debugging","web_app_testing,debugging",1,1
+CS.F4.TECH.OUTLINE_FINANCIAL_RESOURCES,Outline financial resource components,4,8.44,Technopreneurship,TECH,knowledge,"Finance and funding","finance,funding",1,1
+CS.F4.TECH.IDENTIFY_BUSINESS_LOCATION_CONDITIONS,Identify ideal conditions for business location,4,8.44,Technopreneurship,TECH,analysis,"Market research and business conditions","business_location,market_conditions",1,1
+CS.F4.TECH.CONDUCT_MARKET_RESEARCH,Conduct basic market research for tech projects,4,8.44,Technopreneurship,TECH,procedural,"Market research","market_research,surveys",1,1

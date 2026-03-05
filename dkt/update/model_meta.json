@@ -1,0 +1,16 @@
+{
+  "saved_at_utc": "2026-03-05T12:00:57.095817+00:00",
+  "model_type": "dkt_lstm",
+  "skill_map_version": "v1",
+  "skill_map_path": "/workspace/workspace/dkt/update/skill_map_v1.json",
+  "num_skills": 77,
+  "max_len": 50,
+  "stride": 25,
+  "batch_size": 32,
+  "checkpoint_path": "/workspace/workspace/dkt/update/checkpoints/best_dkt_lstm.ckpt",
+  "metrics": {
+    "auc": 0.5342081644657319,
+    "acc": 0.5253187286766027,
+    "logloss": 0.6926169805797303
+  }
+}
